@@ -1,5 +1,2 @@
-# Exclude large CSV files
-*.csv
-
 # Exclude MLflow tracking folder
 mlruns/
